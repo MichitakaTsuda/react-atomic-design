@@ -5,9 +5,12 @@
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
+    "@babel/runtime": "7.18.9",
     "react": "18.0.0",
-    "react-dom": "18.0.0",
-    "react-scripts": "4.0.0"
+    "react-dom": "18.2.0",
+    "react-router-dom": "6.3.0",
+    "react-scripts": "4.0.0",
+    "styled-components": "5.3.5"
   },
   "devDependencies": {
     "@babel/runtime": "7.13.8",
